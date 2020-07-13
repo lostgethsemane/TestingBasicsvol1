@@ -1,0 +1,11 @@
+1. olx logo - by id selector - #piklogo 
+2. search bar - .searchinput.trazilicaObicna
+3. nekretine - .selected
+4. search button - .btn.btn-mainsearch
+5. prijava - #loginbtn
+6. objaviti - #login-ic
+7. broj kategorija - .ch1 > strong:nth-child(3)
+8. poslovi - .unstyled.tabs > li > a[href="https://www.olx.ba/poslovi"]
+9. komjuteri - .unstyled.tabs > li > a[href="https://www.olx.ba/kompjuteri"]
+10.moj dom - .unstyled.tabs > li > a[href="https://www.olx.ba/moj-dom"]
+
