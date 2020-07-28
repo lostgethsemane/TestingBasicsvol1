@@ -5,10 +5,10 @@
     <classes>
       <class name="id123.SecondPageTest">
         <methods>
-          <include name="test"/>
-          <include name="clickOnBikeLightAndTestCart"/>
+          <include name="testSecondElementInCart"/>
+          <include name="testFirstElementInCart"/>
           <include name="setUp"/>
-          <include name="clickOnOnesieAndTestCart"/>
+          <include name="testIfOnRightPage"/>
         </methods>
       </class> <!-- id123.SecondPageTest -->
     </classes>
